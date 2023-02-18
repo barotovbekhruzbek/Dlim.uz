@@ -1,0 +1,13 @@
+.davron {
+    width: 100%;
+    text-align: center;
+    background-color: #B02F07;
+    padding: 7px;
+    font-size: 20px;
+    color: #fff;
+    font-weight: bold;
+    border-radius: 0 0 10px 10px;
+}
+.categoriya{
+    margin-bottom: 60px !important;
+}
